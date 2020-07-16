@@ -1,0 +1,7 @@
+{
+  "name": "emoji-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cameron Knight <cameron.knight@bumped.com>",
+  "license": "MIT"
+}
